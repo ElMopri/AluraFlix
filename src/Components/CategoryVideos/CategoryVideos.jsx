@@ -6,9 +6,9 @@ import { CategoryTitle, VideoList } from "./CategoryVideos.styled";
 const CategoryVideos = () => {
   const { videoCategory } = useVideoContext();
   const categoryColors = {
-    "FRONT END": "#33c1ff",
-    "BACK END": "#75ff33",
-    "INNOVACIÓN Y GESTIÓN": "#ff5733",
+    "FRONT END": "#fff700",
+    "BACK END": "#007cff",
+    "INNOVACIÓN Y GESTIÓN": "#ff0000",
   };
 
   return (

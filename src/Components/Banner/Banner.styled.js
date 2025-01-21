@@ -18,7 +18,7 @@ export const BannerBackground = styled.img`
 export const BannerImg = styled.img`
   width: 30%;
   border-radius: 15px;
-  box-shadow: 0px 0px 0.75rem 0.25rem #2271d1;
+  box-shadow: 0px 0px 0.75rem 0.25rem #39e80e;
   margin: 5%;
 `;
 
